@@ -3,7 +3,7 @@ Simple Python tools
 
 ## Installation
 ```
-git clone (https://github.com/0dayhunter/python-projects.git)
+git clone https://github.com/0dayhunter/python-projects.git
 ```
 ## Prerequisites
 
